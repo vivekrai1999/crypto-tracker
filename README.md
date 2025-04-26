@@ -1,6 +1,6 @@
 # 🚀 Real-Time Crypto Price Tracker
 
-![Live Crypto Table Demo](https://raw.githubusercontent.com/vivekrai1999/crypto-tracker/main/demo.gif)
+![Live Crypto Table Demo](https://raw.githubusercontent.com/vivekrai1999/crypto-tracker/main/src/assets/demo/demo.gif)
 
 ## 🏗 Architecture Overview
 
